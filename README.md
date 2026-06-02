@@ -22,10 +22,4 @@
 - Set your own database connection string with the `MONGODB_URI` environment variable before running the backend
 - Update local file paths in the Python scripts if your folder layout is different
 
-### Screenshots
 
-Local UI screenshots and demo images can be added here later if needed.
-
-## Notes
-- Keep deployment-specific secrets out of the repository
-- Replace placeholder paths and sample data with your own environment details before sharing
